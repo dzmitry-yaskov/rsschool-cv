@@ -4,7 +4,11 @@
 dzmitry.yaskov.job@gmail.com
 
 #### BIO
-Заполнить 
+* executive
+* responsible
+* hardworking
+* easilytrained
+* curiose
 
 #### Skills
 * Html
